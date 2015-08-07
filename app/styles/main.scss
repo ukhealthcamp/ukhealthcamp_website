@@ -18,6 +18,10 @@ a {
 h1 {
   font-weight: 700;
   letter-spacing: -2px;
+  line-height: 40px;
+  padding-bottom: 10px;
+  padding-top: 0px;
+  margin-top: 0px;
 }
 h2 {
   font-weight: 700;
@@ -28,7 +32,7 @@ h2 {
 }
 
 
-
+.logopad { margin: 2px;}
 /* Main marketing message and sign up button */
 .jumbotron {
   text-align: center;
@@ -94,8 +98,8 @@ padding-bottom: 50px;
 
   }
   .jumbotron .wrap {
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 80px;
+    padding-bottom: 80px;
 
   }
 }
