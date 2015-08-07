@@ -78,6 +78,7 @@ padding-bottom: 50px;
   background-color: $orange-0;
   color: #fff;
 }
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
   .container {
@@ -102,4 +103,15 @@ padding-bottom: 50px;
     padding-bottom: 80px;
 
   }
+}
+
+@media screen and (max-width: 767px) {
+
+  .explainer, .explainer2, .explainer3, .jumbotron .wrap {
+    padding-top: 40px;
+  padding-bottom: 40px;
+
+  }
+
+
 }
