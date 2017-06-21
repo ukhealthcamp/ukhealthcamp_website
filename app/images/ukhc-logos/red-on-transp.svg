@@ -16,10 +16,10 @@
    viewBox="0 0 500 500"
    enable-background="new 0 0 841.9 659.7"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="red-on-transp.svg"
+   sodipodi:docname="red-on-transp-2svg.svg"
    inkscape:export-filename="/Users/helen/Desktop/white-on-red.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,15 +41,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2124"
-     inkscape:window-height="1390"
+     inkscape:window-width="2280"
+     inkscape:window-height="1403"
      id="namedview20"
      showgrid="false"
      inkscape:snap-grids="false"
      inkscape:object-paths="true"
      inkscape:snap-smooth-nodes="false"
      inkscape:zoom="1.888"
-     inkscape:cx="122.78617"
+     inkscape:cx="206.3777"
      inkscape:cy="227.18769"
      inkscape:window-x="59"
      inkscape:window-y="0"
