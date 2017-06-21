@@ -124,6 +124,9 @@ a.btn {
 .alert-bar a {
   color: #fff;
 }
+.wrap .brand {
+  padding-top: 40px;
+}
 .btn-white {
   color: $red-0 !important;
   background-color: #fff;
@@ -164,9 +167,17 @@ a.btn {
 
   .explainer, .explainer2, .explainer3, .jumbotron .wrap {
     padding-top: 40px;
-  padding-bottom: 40px;
-
+    padding-bottom: 40px;
   }
-
-
+  .container {
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  .wrap .brand {
+    padding-top: 240px;
+  }
+  .alert-bar .row-item {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
 }
